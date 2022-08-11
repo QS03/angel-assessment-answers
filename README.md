@@ -2,14 +2,11 @@
 
 ### Help others to get a dream job!
 
----
-Assessment: Front-End Web
-Last Updated: 06/17/2022
-Score: 25 out of 30
-Performance: 90th - 100th
-Rank: Top 3%
-Version: 0.2
----
+---------------------------------------------------------------------------
+| Assessment | Score | Rank| Performance| Last Update | Version |
+---------------------------------------------------------------------------
+| Front-End Webd | 25 out of 30 | Top 3% | 90th - 100th| 06/17/2022 | 0.2 |
+---------------------------------------------------------------------------
 
 
 
